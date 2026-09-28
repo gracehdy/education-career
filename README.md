@@ -113,6 +113,6 @@ python modelling.ipynb
 
 ## Teknologi
 
-Python · Streamlit · Plotly · pandas · NumPy · scikit-learn · joblib
+Python · Streamlit · Plotly · pandas · NumPy · scikit-learn · joblib · Seaborn
 
 ---
