@@ -116,3 +116,5 @@ python modelling.ipynb
 Python · Streamlit · Plotly · pandas · NumPy · scikit-learn · joblib · Seaborn
 
 ---
+Team project with teammates ([original repo]([https://github.com/aqilanailalhusna/education-career]))
+
