@@ -49,7 +49,7 @@ Semua halaman analisis mendukung **filter global** di sidebar (Gender, Field of 
 
 ---
 
-## ⚙️ Instalasi & Menjalankan
+##  Instalasi & Menjalankan
 
 **1. Clone repository**
 
@@ -102,7 +102,7 @@ python modelling.ipynb
 
 ---
 
-## ⚠️ Catatan & Keterbatasan
+## Catatan & Keterbatasan
 
 - Hampir semua fitur numerik pada dataset berkorelasi sangat kuat (≈0.95–0.98) dengan `Job_Offers`. Pola sebersih ini jarang muncul di data dunia nyata, sehingga dataset kemungkinan **sintetis atau dibuat dengan rumus**. Karena itu, nilai R² yang mendekati 1 **tidak boleh dianggap sebagai bukti performa model di dunia nyata**.
 - Hasil prediksi adalah estimasi statistik untuk keperluan akademik/pembelajaran, bukan jaminan hasil aktual.
@@ -110,7 +110,7 @@ python modelling.ipynb
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 Python · Streamlit · Plotly · pandas · NumPy · scikit-learn · joblib
 
